@@ -1,0 +1,260 @@
+.image3Icon,
+.image4Icon,
+.malusiMsomiXpMgsqga8UnsplIcon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1083px;
+  object-fit: cover;
+}
+.image3Icon,
+.image4Icon {
+  width: 1364px;
+  height: 910px;
+}
+.image4Icon {
+  width: 1594px;
+  height: 1064px;
+}
+.groupChild {
+  border-radius: var(--br-5xs);
+  background-color: var(--web-shadesofblack-white);
+}
+.groupChild,
+.image1Icon,
+.imgHereInner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 568px;
+  height: 744px;
+}
+.image1Icon {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.image1,
+.loginChild {
+  position: absolute;
+  top: 0;
+  left: 49px;
+  width: 330px;
+  height: 104px;
+}
+.loginChild {
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--primary-blue);
+  width: 428px;
+  height: 82px;
+}
+.loginToContinue {
+  position: absolute;
+  top: 27.15px;
+  left: 122.77px;
+  font-weight: 600;
+  display: inline-block;
+  width: 179.36px;
+  height: 28.88px;
+}
+.login {
+  position: absolute;
+  top: 445.56px;
+  left: 0;
+  width: 428px;
+  height: 82px;
+  color: var(--web-shadesofblack-white);
+}
+.forgotPassword,
+.rememberMe {
+  position: absolute;
+  top: 3px;
+  left: 306px;
+  font-weight: 600;
+  display: inline-block;
+  width: 122px;
+  height: 19px;
+  opacity: 0.5;
+}
+.rememberMe {
+  left: 40px;
+  width: 107px;
+  opacity: 0.6;
+}
+.forgotPasswordParent,
+.iconSuggestedSquareEm,
+.rememberMeParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 24px;
+  height: 24px;
+}
+.forgotPasswordParent,
+.rememberMeParent {
+  width: 147px;
+}
+.forgotPasswordParent {
+  top: 217.56px;
+  width: 428px;
+}
+.emailId,
+.enterYourEmail {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 101px;
+  height: 19px;
+  opacity: 0.5;
+}
+.enterYourEmail {
+  top: 35px;
+  font-size: var(--web-h6-20b-lh26-size);
+  font-weight: 600;
+  width: 240.31px;
+  height: 28.73px;
+}
+.emailAddresChild {
+  position: absolute;
+  top: 79.3px;
+  left: 0;
+  width: 428px;
+  height: 0.87px;
+  opacity: 0.2;
+}
+.emailAddres,
+.enterYourPassword,
+.password1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 428px;
+  height: 79.73px;
+}
+.enterYourPassword,
+.password1 {
+  display: inline-block;
+  width: 63.56px;
+  height: 19.16px;
+  opacity: 0.5;
+}
+.enterYourPassword {
+  top: 35.38px;
+  font-size: var(--web-h6-20b-lh26-size);
+  font-weight: 600;
+  width: 208.97px;
+  height: 28.73px;
+}
+.eyesIcon {
+  position: absolute;
+  height: 29.8%;
+  width: 7.17%;
+  top: 45.68%;
+  right: 0.11%;
+  bottom: 24.53%;
+  left: 92.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.passwordChild {
+  position: absolute;
+  top: 81.39px;
+  left: 0;
+  width: 428px;
+  height: 0.87px;
+  opacity: 0.2;
+}
+.password {
+  top: 111.73px;
+  width: 428px;
+  height: 81.82px;
+}
+.groupParent,
+.logIn1,
+.password {
+  position: absolute;
+  left: 0;
+}
+.groupParent {
+  top: 148px;
+  width: 428px;
+  height: 241.56px;
+  font-size: var(--web-caption-2-14b-lh16-size);
+}
+.logIn1 {
+  top: 0;
+  font-weight: 600;
+  display: inline-block;
+  width: 155.86px;
+}
+.enterToContinue,
+.logInParent,
+.title {
+  position: absolute;
+  left: 0;
+  width: 323.03px;
+}
+.enterToContinue {
+  top: 82px;
+  font-size: 13.93px;
+  display: inline-block;
+  opacity: 0.5;
+}
+.logInParent,
+.title {
+  top: 0;
+  height: 100px;
+}
+.title {
+  font-size: 52.24px;
+  font-family: var(--font-source-sans-pro);
+}
+.image1Parent,
+.loginParent {
+  position: absolute;
+  top: 152px;
+  left: 0;
+  width: 428px;
+  height: 527.56px;
+}
+.image1Parent {
+  top: 32px;
+  left: 70px;
+  height: 679.56px;
+}
+.imgHere,
+.logofullBIcon {
+  position: absolute;
+  top: 78px;
+  left: 800px;
+  width: 568px;
+  height: 744px;
+}
+.logofullBIcon {
+  top: 56px;
+  left: 929px;
+  width: 454px;
+  height: 82px;
+  overflow: hidden;
+  display: none;
+}
+.logIn {
+  position: relative;
+  background-color: var(--web-shades-of-black-6);
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 20.9px;
+  color: var(--gray-black);
+  font-family: var(--font-open-sans);
+}
